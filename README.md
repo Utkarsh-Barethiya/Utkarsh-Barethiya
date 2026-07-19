@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utkarsh 👋</h1>
-<h3 align="center">Security Consultant · Penetration Tester · Application & Cloud Security</h3>
+<h3 align="center">Security Consultant · Penetration Tester</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Breaking+things+to+help+build+them+securely;Web+%7C+API+%7C+Network+%7C+Active+Directory+Security;MSc+Cybersecurity+(First+Class+Honours);Building+ForgeAI+%E2%80%94+AI+Security+Learning+Platform" alt="Typing SVG" />
