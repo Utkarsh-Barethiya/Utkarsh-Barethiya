@@ -77,4 +77,4 @@ An open-source platform pairing intentionally vulnerable AI applications with se
   <a href="https://www.linkedin.com/in/utkarsh-barethiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://crackthehack.in"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<p align="center"><i>If you're online bydefault you're vulnerable! :p</i></p>
+<p align="center"><i>If you're online by default you're vulnerable! :p</i></p>
