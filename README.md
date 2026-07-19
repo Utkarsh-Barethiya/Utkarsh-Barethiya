@@ -64,7 +64,7 @@ An open-source platform pairing intentionally vulnerable AI applications with se
 
 ### 🎓 Certifications
 
-- Certified Red Team Operator (CRTO) — Zero-Point Security *(in progress)*
+- Certified Red Team Operator (CRTO) — Zero-Point Security *(In progress)*
 - Certified Red Team Professional (CRTP) — Altered Security
 - Junior Penetration Tester (eJPT) — eLearnSecurity
 - Certified Ethical Hacker (CEH v11) — EC-Council
@@ -74,9 +74,7 @@ An open-source platform pairing intentionally vulnerable AI applications with se
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:utkarsh.barethiya75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/utkarsh-barethiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://crackthehack.in"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<p align="center"><i>Securing systems by day, breaking them (responsibly) by night.</i></p>
+<p align="center"><i>If you're online bydefault you're vulnerable! :p</i></p>
